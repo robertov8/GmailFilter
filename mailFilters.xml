@@ -8,37 +8,7 @@
 		<id></id>
 		<updated></updated>
 		<content></content>
-		<apps:property name='hasTheWord' value='parceiro@izmarketing.com.br'/>
-		<apps:property name='shouldTrash' value='true'/>
-	</entry>
-
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id></id>
-		<updated></updated>
-		<content></content>
-		<apps:property name='hasTheWord' value='@izmarketing.com.br'/>
-		<apps:property name='shouldTrash' value='true'/>
-	</entry>
-
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id></id>
-		<updated></updated>
-		<content></content>
-		<apps:property name='hasTheWord' value='@isthereanydeal.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-	</entry>
-
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id></id>
-		<updated></updated>
-		<content></content>
-		<apps:property name='hasTheWord' value='mail@e-byshop.com.br'/>
+		<apps:property name='hasTheWord' value='example@example.com'/>
 		<apps:property name='shouldTrash' value='true'/>
 	</entry>
 </feed>
