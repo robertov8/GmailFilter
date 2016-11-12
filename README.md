@@ -1,2 +1,2 @@
 # GmailFilter
-Create file xml 
+Create file xml
